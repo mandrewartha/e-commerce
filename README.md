@@ -1,5 +1,5 @@
 # E-commerce
-This application was created using MySQL and sequelize to create a database that held category,product,product tag, and tag tables. The tables were then seeded and routes were created to get,post,put,and delete items in the database. 
+This application was created using MySQL, Express.js, and sequelize to create a database that held category,product,product tag, and tag tables. The tables were then seeded and routes were created to get,post,put,and delete items in the database. 
 
 # Mock-Up
 
@@ -17,4 +17,4 @@ This app is deployed at: https://mandrewartha.github.io/e-commerce/
 
 The walkthrough video is at: https://drive.google.com/file/d/1OCMj46Bb1hd_4Wr9gGsvR6eZpVQnKnoE/view
 
-The heroku link is:
+The heroku link is: https://ma-ecommerce-application.herokuapp.com/
