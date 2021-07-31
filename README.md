@@ -13,6 +13,8 @@ This application was created using MySQL and sequelize to create a database that
 ![image](https://user-images.githubusercontent.com/84876493/127724052-f245ae85-81c0-4b60-9e7b-c5ee9538de7c.png)
 
 # Links
-This app is deployed at:
+This app is deployed at: https://mandrewartha.github.io/e-commerce/
+
 The walkthrough video is at: https://drive.google.com/file/d/1OCMj46Bb1hd_4Wr9gGsvR6eZpVQnKnoE/view
+
 The heroku link is:
